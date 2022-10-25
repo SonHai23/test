@@ -5,7 +5,7 @@ function App() {
         <div className="App">
             Hello ReactJS
         
-            Xin chao ban
+            Xin chao ban,..............
         </div>
     );
 }
